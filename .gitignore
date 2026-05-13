@@ -1,0 +1,12 @@
+# nginx config backups created by add-proxy-domain.sh
+*.bak.*
+*.bak
+
+# editor / IDE
+.vscode/
+.idea/
+*.swp
+
+# Claude local state
+.claude/
+http.conf
